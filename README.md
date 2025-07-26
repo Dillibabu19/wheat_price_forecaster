@@ -44,9 +44,3 @@ The model primarily uses the `arrival_date` and `modal_price` fields to forecast
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Dillibabu19/wheat_price_forecaster.git
-   cd wheat_price_forecaster
